@@ -1,5 +1,5 @@
 # iotAsia2017
-This repository contains the code for the examples presented in IoT Asia 2017 on 30th March 2017
+This repository contains the code for the examples presented in IoT Asia 2017 on 30th March 2017. The presentation can be found [here](https://www.slideshare.net/SetuChokshi/time-series-predictions-using-lstms)
 
 ## Introduction
 The presentation focused on how one can use LSTM for time series predictions. We use the sinWave and the Household Power Consumption from the [UCI repository](https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption). The dataset is not included in this repository. 
